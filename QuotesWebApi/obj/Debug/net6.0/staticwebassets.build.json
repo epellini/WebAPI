@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u2g78pPEia7AycnzqqiRR7UEl2diiDNkLCTr2ZL3Wc4=",
+  "Source": "QuotesWebApi",
+  "BasePath": "_content/QuotesWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
